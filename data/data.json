@@ -412,8 +412,7 @@
           "ShortDescriptionLine2": "See https://www.now14.co.il/",
           "Poster": "now14.png",
           "StreamUrls": [
-            "http://dvr.ch20-cdnwiz.com/hls/live.m3u8",
-            "http://dvr.ch20-cdnwiz.com/mobilehls/dvr.m3u8"
+             "https://www.livehdtv.com/embed/channel-14-isreal-live/"
           ],
           "HttpHeaders": [
             "user-agent:Mozill/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)"
